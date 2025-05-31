@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+key.txt
+REQUERIMENTS.txt
+doc_metadata.pkl
+faiss_index.bin
