@@ -281,10 +281,3 @@ To enhance the documentation, consider adding the following visuals:
 - A diagram of the directory structure for clarity.
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-Este bloco de código Markdown contém todo o conteúdo fornecido no seu pedido, incluindo todas as seções, cabeçalhos, listas, snippets de código e formatação. Você pode copiá-lo e colá-lo diretamente em um arquivo como `README.md` ou outro documento do seu projeto. A estrutura foi mantida intacta, e os snippets de código foram devidamente destacados para facilitar a leitura e o uso.
